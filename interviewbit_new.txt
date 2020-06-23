@@ -1,0 +1,33 @@
+Look for algo only:
+
+NOTE: AVOID TLE, SEND BY REFERENCE IN RECURSION WHEN VECTOR
+
+Algo for : Flatten Binary Tree to Linked List
+
+Tip: Tree ques, level order karna ho,... queue mei root,NUll dalo. Null se hi hame pata chalta hai level ka
+
+BST Iterator
+
+Binary Tree From Inorder And Postorder::: note to call right pehle, left baad mei
+
+Hashing :   equal....   A+B = C+D
+
+Palindrome List
+
+Maximum Absolute Difference
+
+Largest area of rectangle with permutations (row /col) - see codeforce sol
+
+Array 3 Pointers
+
+Rearrange Array ( maths) (saving 2 numbers on same index)
+
+Divide Integers(Bit manipulation)
+
+Median of Array : median of two sorted array of different sizes (Binary search)
+
+
+===============================================
+Points to learn:
+
+Min priority queue of Node* type ki ??? ........  operator overload se
